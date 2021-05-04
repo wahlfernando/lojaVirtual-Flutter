@@ -1,0 +1,473 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Documentos\FERNANDO\Arquivos Flutter\Udemy\LojaVirtual\loja_virtual\android\app\src\main\AndroidManifest.xml:1:1-53:12
+INJECTED from D:\Documentos\FERNANDO\Arquivos Flutter\Udemy\LojaVirtual\loja_virtual\android\app\src\main\AndroidManifest.xml:1:1-53:12
+INJECTED from D:\Documentos\FERNANDO\Arquivos Flutter\Udemy\LojaVirtual\loja_virtual\android\app\src\main\AndroidManifest.xml:1:1-53:12
+INJECTED from D:\Documentos\FERNANDO\Arquivos Flutter\Udemy\LojaVirtual\loja_virtual\android\app\src\main\AndroidManifest.xml:1:1-53:12
+MERGED from D:\Documentos\FERNANDO\Arquivos Flutter\Udemy\LojaVirtual\loja_virtual\android\app\src\main\AndroidManifest.xml:1:1-53:12
+MERGED from [:firebase_auth] D:\Documentos\FERNANDO\Arquivos Flutter\Udemy\LojaVirtual\loja_virtual\build\firebase_auth\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-15:12
+MERGED from [:firebase_auth_web] D:\Documentos\FERNANDO\Arquivos Flutter\Udemy\LojaVirtual\loja_virtual\build\firebase_auth_web\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:firebase_storage] D:\Documentos\FERNANDO\Arquivos Flutter\Udemy\LojaVirtual\loja_virtual\build\firebase_storage\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-15:12
+MERGED from [:cloud_firestore] D:\Documentos\FERNANDO\Arquivos Flutter\Udemy\LojaVirtual\loja_virtual\build\cloud_firestore\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-15:12
+MERGED from [:cloud_firestore_web] D:\Documentos\FERNANDO\Arquivos Flutter\Udemy\LojaVirtual\loja_virtual\build\cloud_firestore_web\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:firebase_core] D:\Documentos\FERNANDO\Arquivos Flutter\Udemy\LojaVirtual\loja_virtual\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-15:12
+MERGED from [:firebase_core_web] D:\Documentos\FERNANDO\Arquivos Flutter\Udemy\LojaVirtual\loja_virtual\build\firebase_core_web\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:image_picker] D:\Documentos\FERNANDO\Arquivos Flutter\Udemy\LojaVirtual\loja_virtual\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-22:12
+MERGED from [:flutter_plugin_android_lifecycle] D:\Documentos\FERNANDO\Arquivos Flutter\Udemy\LojaVirtual\loja_virtual\build\flutter_plugin_android_lifecycle\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:geolocator] D:\Documentos\FERNANDO\Arquivos Flutter\Udemy\LojaVirtual\loja_virtual\build\geolocator\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:gallery_saver] D:\Documentos\FERNANDO\Arquivos Flutter\Udemy\LojaVirtual\loja_virtual\build\gallery_saver\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:path_provider] D:\Documentos\FERNANDO\Arquivos Flutter\Udemy\LojaVirtual\loja_virtual\build\path_provider\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:image_cropper] D:\Documentos\FERNANDO\Arquivos Flutter\Udemy\LojaVirtual\loja_virtual\build\image_cropper\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:vibration] D:\Documentos\FERNANDO\Arquivos Flutter\Udemy\LojaVirtual\loja_virtual\build\vibration\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.multidex:multidex:2.0.0] C:\Users\Usuário\.gradle\caches\transforms-2\files-2.1\81e6ff9a5c3e0571422ca0ef141f94b3\multidex-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Usuário\.gradle\caches\transforms-2\files-2.1\fc2ffe312ea43065bd59df9e8836aa9e\legacy-support-v4-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-auth:19.2.0] C:\Users\Usuário\.gradle\caches\transforms-2\files-2.1\1e33ce2222d1558cbc82245df9dac193\firebase-auth-19.2.0\AndroidManifest.xml:17:1-42:12
+MERGED from [com.google.android.gms:play-services-location:17.0.0] C:\Users\Usuário\.gradle\caches\transforms-2\files-2.1\ddb24b3e281e8bab65a9a4df625ffd8f\play-services-location-17.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-storage:17.0.0] C:\Users\Usuário\.gradle\caches\transforms-2\files-2.1\9bc79fccbec825c1c3a48dd13f4bb1a7\jetified-firebase-storage-17.0.0\AndroidManifest.xml:15:1-37:12
+MERGED from [com.google.firebase:firebase-firestore:21.3.0] C:\Users\Usuário\.gradle\caches\transforms-2\files-2.1\78a5d6ed9eb04041a95241063c6ac30c\jetified-firebase-firestore-21.3.0\AndroidManifest.xml:2:1-26:12
+MERGED from [com.google.firebase:firebase-auth-interop:19.0.0] C:\Users\Usuário\.gradle\caches\transforms-2\files-2.1\8094e87ecd77f546da4f36a5ac021ac8\firebase-auth-interop-19.0.0\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.firebase:firebase-common:19.3.0] C:\Users\Usuário\.gradle\caches\transforms-2\files-2.1\5290b86e5212d30d932d892246a1c8a0\jetified-firebase-common-19.3.0\AndroidManifest.xml:15:1-39:12
+MERGED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\Usuário\.gradle\caches\transforms-2\files-2.1\05bba5a22f1fb20b730fb8c473e5665f\play-services-base-17.1.0\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\Usuário\.gradle\caches\transforms-2\files-2.1\68545895988108a776fb327d537da1c7\play-services-tasks-17.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\Usuário\.gradle\caches\transforms-2\files-2.1\bdbf40e1cf6d909c93fc244717130b47\play-services-places-placereport-17.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Usuário\.gradle\caches\transforms-2\files-2.1\2c60a29057c1374362fb7e7f88a43c90\jetified-play-services-basement-17.0.0\AndroidManifest.xml:17:1-28:12
+MERGED from [com.github.yalantis:ucrop:2.2.6] C:\Users\Usuário\.gradle\caches\transforms-2\files-2.1\d709473e4641729306afeed89b4c16e1\ucrop-2.2.6\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\Usuário\.gradle\caches\transforms-2\files-2.1\b4f38fc2dc77bc2783ae4468a3d84e2b\appcompat-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Usuário\.gradle\caches\transforms-2\files-2.1\f346a256621a496ec96e80fbe4d8817a\fragment-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Usuário\.gradle\caches\transforms-2\files-2.1\7fb67cb6651bd369d448ee02b4635e35\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Usuário\.gradle\caches\transforms-2\files-2.1\951b79dba6f8f2a2a9347b7191c0b28f\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Usuário\.gradle\caches\transforms-2\files-2.1\312f6712bdafa507c5ebc933f8638cbd\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Usuário\.gradle\caches\transforms-2\files-2.1\e56a241ecaa8d75e750fefb61542ddc8\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Usuário\.gradle\caches\transforms-2\files-2.1\46c0def4fe30cd9e62c88ec8ac3e5d05\activity-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.2.0-rc01] C:\Users\Usuário\.gradle\caches\transforms-2\files-2.1\115739c0e61b89e39068c724bed75935\transition-1.2.0-rc01\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.media:media:1.0.0] C:\Users\Usuário\.gradle\caches\transforms-2\files-2.1\657c4b12d7a235e1cba3a16554a6972a\media-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Usuário\.gradle\caches\transforms-2\files-2.1\099c337d24b6fccb00079b4e5a386b3f\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Usuário\.gradle\caches\transforms-2\files-2.1\e15c683957f801bd1f5846c695d57c22\coordinatorlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Usuário\.gradle\caches\transforms-2\files-2.1\868917a9209fda37f60bf577a4bc4bc7\slidingpanelayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Usuário\.gradle\caches\transforms-2\files-2.1\a558b6fc36b966cafed7d69e472de0b2\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\Usuário\.gradle\caches\transforms-2\files-2.1\fe1e1c1eefdde685cc4a439fc9352377\appcompat-resources-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Usuário\.gradle\caches\transforms-2\files-2.1\528610c43b0834ea52f49348017cf3f5\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Usuário\.gradle\caches\transforms-2\files-2.1\8524b1deb1c379a951447411f101e82a\asynclayoutinflater-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Usuário\.gradle\caches\transforms-2\files-2.1\6e7a419218f666ca192b7573dbe80add\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Usuário\.gradle\caches\transforms-2\files-2.1\836b6181679cb2d3d9107eaa9edb98b2\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.1.0] C:\Users\Usuário\.gradle\caches\transforms-2\files-2.1\cc05cbb20248c793dee14f7d6605fdfb\core-1.1.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\Usuário\.gradle\caches\transforms-2\files-2.1\02816056a22ab3eb70148f01f98adbfc\lifecycle-runtime-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Usuário\.gradle\caches\transforms-2\files-2.1\23031d34efc0571e3e32118c0ea8966d\savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Usuário\.gradle\caches\transforms-2\files-2.1\db31f3ae55e03862ac3575434ccfe848\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Usuário\.gradle\caches\transforms-2\files-2.1\69bd8cf5cae844b0c898c662bf6c7166\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.exifinterface:exifinterface:1.3.0] C:\Users\Usuário\.gradle\caches\transforms-2\files-2.1\a775f1d5ce1d1502fcf9feafc624d67f\exifinterface-1.3.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Usuário\.gradle\caches\transforms-2\files-2.1\e87b64b94f5c8b5cbb360f4d317c53b6\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Usuário\.gradle\caches\transforms-2\files-2.1\76f54d9ee86a528bc05e58d1fce298db\versionedparcelable-1.1.0\AndroidManifest.xml:17:1-27:12
+MERGED from [com.google.firebase:firebase-components:16.0.0] C:\Users\Usuário\.gradle\caches\transforms-2\files-2.1\6da58e13240b0ae3a83ebdb883f391b7\jetified-firebase-components-16.0.0\AndroidManifest.xml:15:1-23:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Usuário\.gradle\caches\transforms-2\files-2.1\1f1adfa0ec28a04ef13cb56532c7a00a\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Usuário\.gradle\caches\transforms-2\files-2.1\5dfe4c64c9e1bd823afd63c4256af19c\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Usuário\.gradle\caches\transforms-2\files-2.1\8d6423f798a0cb2c5f8a17eccb54ceea\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Usuário\.gradle\caches\transforms-2\files-2.1\aec81131b87938632057d6bc8fc8c330\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\Usuário\.gradle\caches\transforms-2\files-2.1\e0b2b94347c1ff094377551946660dc4\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Usuário\.gradle\caches\transforms-2\files-2.1\5a962addf5a9cfad67316ffa245d950a\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [io.grpc:grpc-android:1.21.0] C:\Users\Usuário\.gradle\caches\transforms-2\files-2.1\2e6279ec12a6fa6804080f9d4540fc13\grpc-android-1.21.0\AndroidManifest.xml:2:1-13:12
+MERGED from [com.google.firebase:firebase-database-collection:17.0.0] C:\Users\Usuário\.gradle\caches\transforms-2\files-2.1\6d5d9c22b9ce429cddd121d1f9009c51\firebase-database-collection-17.0.0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.firebase:protolite-well-known-types:17.0.0] C:\Users\Usuário\.gradle\caches\transforms-2\files-2.1\3cd85f3ec8535ffa2a9d5080421a566b\protolite-well-known-types-17.0.0\AndroidManifest.xml:2:1-11:12
+INJECTED from D:\Documentos\FERNANDO\Arquivos Flutter\Udemy\LojaVirtual\loja_virtual\android\app\src\debug\AndroidManifest.xml:1:1-7:12
+INJECTED from D:\Documentos\FERNANDO\Arquivos Flutter\Udemy\LojaVirtual\loja_virtual\android\app\src\debug\AndroidManifest.xml:1:1-7:12
+INJECTED from D:\Documentos\FERNANDO\Arquivos Flutter\Udemy\LojaVirtual\loja_virtual\android\app\src\debug\AndroidManifest.xml:1:1-7:12
+	package
+		ADDED from D:\Documentos\FERNANDO\Arquivos Flutter\Udemy\LojaVirtual\loja_virtual\android\app\src\main\AndroidManifest.xml:2:5-43
+		INJECTED from D:\Documentos\FERNANDO\Arquivos Flutter\Udemy\LojaVirtual\loja_virtual\android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Documentos\FERNANDO\Arquivos Flutter\Udemy\LojaVirtual\loja_virtual\android\app\src\debug\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\Documentos\FERNANDO\Arquivos Flutter\Udemy\LojaVirtual\loja_virtual\android\app\src\main\AndroidManifest.xml
+		ADDED from D:\Documentos\FERNANDO\Arquivos Flutter\Udemy\LojaVirtual\loja_virtual\android\app\src\main\AndroidManifest.xml:1:1-53:12
+		INJECTED from D:\Documentos\FERNANDO\Arquivos Flutter\Udemy\LojaVirtual\loja_virtual\android\app\src\debug\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\Documentos\FERNANDO\Arquivos Flutter\Udemy\LojaVirtual\loja_virtual\android\app\src\main\AndroidManifest.xml
+		ADDED from D:\Documentos\FERNANDO\Arquivos Flutter\Udemy\LojaVirtual\loja_virtual\android\app\src\main\AndroidManifest.xml:1:1-53:12
+		INJECTED from D:\Documentos\FERNANDO\Arquivos Flutter\Udemy\LojaVirtual\loja_virtual\android\app\src\debug\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Documentos\FERNANDO\Arquivos Flutter\Udemy\LojaVirtual\loja_virtual\android\app\src\main\AndroidManifest.xml:1:11-69
+permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\Documentos\FERNANDO\Arquivos Flutter\Udemy\LojaVirtual\loja_virtual\android\app\src\main\AndroidManifest.xml:8:5-76
+	android:name
+		ADDED from D:\Documentos\FERNANDO\Arquivos Flutter\Udemy\LojaVirtual\loja_virtual\android\app\src\main\AndroidManifest.xml:8:17-73
+application
+ADDED from D:\Documentos\FERNANDO\Arquivos Flutter\Udemy\LojaVirtual\loja_virtual\android\app\src\main\AndroidManifest.xml:10:5-52:19
+MERGED from [:firebase_auth] D:\Documentos\FERNANDO\Arquivos Flutter\Udemy\LojaVirtual\loja_virtual\build\firebase_auth\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-13:19
+MERGED from [:firebase_auth] D:\Documentos\FERNANDO\Arquivos Flutter\Udemy\LojaVirtual\loja_virtual\build\firebase_auth\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-13:19
+MERGED from [:firebase_storage] D:\Documentos\FERNANDO\Arquivos Flutter\Udemy\LojaVirtual\loja_virtual\build\firebase_storage\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-13:19
+MERGED from [:firebase_storage] D:\Documentos\FERNANDO\Arquivos Flutter\Udemy\LojaVirtual\loja_virtual\build\firebase_storage\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-13:19
+MERGED from [:cloud_firestore] D:\Documentos\FERNANDO\Arquivos Flutter\Udemy\LojaVirtual\loja_virtual\build\cloud_firestore\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-13:19
+MERGED from [:cloud_firestore] D:\Documentos\FERNANDO\Arquivos Flutter\Udemy\LojaVirtual\loja_virtual\build\cloud_firestore\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-13:19
+MERGED from [:firebase_core] D:\Documentos\FERNANDO\Arquivos Flutter\Udemy\LojaVirtual\loja_virtual\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-13:19
+MERGED from [:firebase_core] D:\Documentos\FERNANDO\Arquivos Flutter\Udemy\LojaVirtual\loja_virtual\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-13:19
+MERGED from [:image_picker] D:\Documentos\FERNANDO\Arquivos Flutter\Udemy\LojaVirtual\loja_virtual\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:10:5-20:19
+MERGED from [:image_picker] D:\Documentos\FERNANDO\Arquivos Flutter\Udemy\LojaVirtual\loja_virtual\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:10:5-20:19
+MERGED from [com.google.firebase:firebase-auth:19.2.0] C:\Users\Usuário\.gradle\caches\transforms-2\files-2.1\1e33ce2222d1558cbc82245df9dac193\firebase-auth-19.2.0\AndroidManifest.xml:23:5-40:19
+MERGED from [com.google.firebase:firebase-auth:19.2.0] C:\Users\Usuário\.gradle\caches\transforms-2\files-2.1\1e33ce2222d1558cbc82245df9dac193\firebase-auth-19.2.0\AndroidManifest.xml:23:5-40:19
+MERGED from [com.google.android.gms:play-services-location:17.0.0] C:\Users\Usuário\.gradle\caches\transforms-2\files-2.1\ddb24b3e281e8bab65a9a4df625ffd8f\play-services-location-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:17.0.0] C:\Users\Usuário\.gradle\caches\transforms-2\files-2.1\ddb24b3e281e8bab65a9a4df625ffd8f\play-services-location-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-storage:17.0.0] C:\Users\Usuário\.gradle\caches\transforms-2\files-2.1\9bc79fccbec825c1c3a48dd13f4bb1a7\jetified-firebase-storage-17.0.0\AndroidManifest.xml:29:5-35:19
+MERGED from [com.google.firebase:firebase-storage:17.0.0] C:\Users\Usuário\.gradle\caches\transforms-2\files-2.1\9bc79fccbec825c1c3a48dd13f4bb1a7\jetified-firebase-storage-17.0.0\AndroidManifest.xml:29:5-35:19
+MERGED from [com.google.firebase:firebase-firestore:21.3.0] C:\Users\Usuário\.gradle\caches\transforms-2\files-2.1\78a5d6ed9eb04041a95241063c6ac30c\jetified-firebase-firestore-21.3.0\AndroidManifest.xml:16:5-24:19
+MERGED from [com.google.firebase:firebase-firestore:21.3.0] C:\Users\Usuário\.gradle\caches\transforms-2\files-2.1\78a5d6ed9eb04041a95241063c6ac30c\jetified-firebase-firestore-21.3.0\AndroidManifest.xml:16:5-24:19
+MERGED from [com.google.firebase:firebase-auth-interop:19.0.0] C:\Users\Usuário\.gradle\caches\transforms-2\files-2.1\8094e87ecd77f546da4f36a5ac021ac8\firebase-auth-interop-19.0.0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth-interop:19.0.0] C:\Users\Usuário\.gradle\caches\transforms-2\files-2.1\8094e87ecd77f546da4f36a5ac021ac8\firebase-auth-interop-19.0.0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-common:19.3.0] C:\Users\Usuário\.gradle\caches\transforms-2\files-2.1\5290b86e5212d30d932d892246a1c8a0\jetified-firebase-common-19.3.0\AndroidManifest.xml:25:5-37:19
+MERGED from [com.google.firebase:firebase-common:19.3.0] C:\Users\Usuário\.gradle\caches\transforms-2\files-2.1\5290b86e5212d30d932d892246a1c8a0\jetified-firebase-common-19.3.0\AndroidManifest.xml:25:5-37:19
+MERGED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\Usuário\.gradle\caches\transforms-2\files-2.1\05bba5a22f1fb20b730fb8c473e5665f\play-services-base-17.1.0\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\Usuário\.gradle\caches\transforms-2\files-2.1\05bba5a22f1fb20b730fb8c473e5665f\play-services-base-17.1.0\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\Usuário\.gradle\caches\transforms-2\files-2.1\68545895988108a776fb327d537da1c7\play-services-tasks-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\Usuário\.gradle\caches\transforms-2\files-2.1\68545895988108a776fb327d537da1c7\play-services-tasks-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\Usuário\.gradle\caches\transforms-2\files-2.1\bdbf40e1cf6d909c93fc244717130b47\play-services-places-placereport-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\Usuário\.gradle\caches\transforms-2\files-2.1\bdbf40e1cf6d909c93fc244717130b47\play-services-places-placereport-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Usuário\.gradle\caches\transforms-2\files-2.1\2c60a29057c1374362fb7e7f88a43c90\jetified-play-services-basement-17.0.0\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Usuário\.gradle\caches\transforms-2\files-2.1\2c60a29057c1374362fb7e7f88a43c90\jetified-play-services-basement-17.0.0\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.1.0] C:\Users\Usuário\.gradle\caches\transforms-2\files-2.1\cc05cbb20248c793dee14f7d6605fdfb\core-1.1.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] C:\Users\Usuário\.gradle\caches\transforms-2\files-2.1\cc05cbb20248c793dee14f7d6605fdfb\core-1.1.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Usuário\.gradle\caches\transforms-2\files-2.1\76f54d9ee86a528bc05e58d1fce298db\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Usuário\.gradle\caches\transforms-2\files-2.1\76f54d9ee86a528bc05e58d1fce298db\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] C:\Users\Usuário\.gradle\caches\transforms-2\files-2.1\cc05cbb20248c793dee14f7d6605fdfb\core-1.1.0\AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from D:\Documentos\FERNANDO\Arquivos Flutter\Udemy\LojaVirtual\loja_virtual\android\app\src\main\AndroidManifest.xml:12:9-48
+	android:icon
+		ADDED from D:\Documentos\FERNANDO\Arquivos Flutter\Udemy\LojaVirtual\loja_virtual\android\app\src\main\AndroidManifest.xml:13:9-43
+	android:name
+		ADDED from D:\Documentos\FERNANDO\Arquivos Flutter\Udemy\LojaVirtual\loja_virtual\android\app\src\main\AndroidManifest.xml:11:9-57
+activity#br.com.softlike.loja_virtual.MainActivity
+ADDED from D:\Documentos\FERNANDO\Arquivos Flutter\Udemy\LojaVirtual\loja_virtual\android\app\src\main\AndroidManifest.xml:14:9-42:20
+	android:launchMode
+		ADDED from D:\Documentos\FERNANDO\Arquivos Flutter\Udemy\LojaVirtual\loja_virtual\android\app\src\main\AndroidManifest.xml:16:13-43
+	android:hardwareAccelerated
+		ADDED from D:\Documentos\FERNANDO\Arquivos Flutter\Udemy\LojaVirtual\loja_virtual\android\app\src\main\AndroidManifest.xml:19:13-47
+	android:windowSoftInputMode
+		ADDED from D:\Documentos\FERNANDO\Arquivos Flutter\Udemy\LojaVirtual\loja_virtual\android\app\src\main\AndroidManifest.xml:20:13-55
+	android:configChanges
+		ADDED from D:\Documentos\FERNANDO\Arquivos Flutter\Udemy\LojaVirtual\loja_virtual\android\app\src\main\AndroidManifest.xml:18:13-163
+	android:theme
+		ADDED from D:\Documentos\FERNANDO\Arquivos Flutter\Udemy\LojaVirtual\loja_virtual\android\app\src\main\AndroidManifest.xml:17:13-47
+	android:name
+		ADDED from D:\Documentos\FERNANDO\Arquivos Flutter\Udemy\LojaVirtual\loja_virtual\android\app\src\main\AndroidManifest.xml:15:13-41
+meta-data#io.flutter.embedding.android.NormalTheme
+ADDED from D:\Documentos\FERNANDO\Arquivos Flutter\Udemy\LojaVirtual\loja_virtual\android\app\src\main\AndroidManifest.xml:25:13-28:17
+	android:resource
+		ADDED from D:\Documentos\FERNANDO\Arquivos Flutter\Udemy\LojaVirtual\loja_virtual\android\app\src\main\AndroidManifest.xml:27:15-52
+	android:name
+		ADDED from D:\Documentos\FERNANDO\Arquivos Flutter\Udemy\LojaVirtual\loja_virtual\android\app\src\main\AndroidManifest.xml:26:15-70
+meta-data#io.flutter.embedding.android.SplashScreenDrawable
+ADDED from D:\Documentos\FERNANDO\Arquivos Flutter\Udemy\LojaVirtual\loja_virtual\android\app\src\main\AndroidManifest.xml:34:13-37:17
+	android:resource
+		ADDED from D:\Documentos\FERNANDO\Arquivos Flutter\Udemy\LojaVirtual\loja_virtual\android\app\src\main\AndroidManifest.xml:36:15-61
+	android:name
+		ADDED from D:\Documentos\FERNANDO\Arquivos Flutter\Udemy\LojaVirtual\loja_virtual\android\app\src\main\AndroidManifest.xml:35:15-79
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\Documentos\FERNANDO\Arquivos Flutter\Udemy\LojaVirtual\loja_virtual\android\app\src\main\AndroidManifest.xml:38:13-41:29
+action#android.intent.action.MAIN
+ADDED from D:\Documentos\FERNANDO\Arquivos Flutter\Udemy\LojaVirtual\loja_virtual\android\app\src\main\AndroidManifest.xml:39:17-68
+	android:name
+		ADDED from D:\Documentos\FERNANDO\Arquivos Flutter\Udemy\LojaVirtual\loja_virtual\android\app\src\main\AndroidManifest.xml:39:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\Documentos\FERNANDO\Arquivos Flutter\Udemy\LojaVirtual\loja_virtual\android\app\src\main\AndroidManifest.xml:40:17-76
+	android:name
+		ADDED from D:\Documentos\FERNANDO\Arquivos Flutter\Udemy\LojaVirtual\loja_virtual\android\app\src\main\AndroidManifest.xml:40:27-74
+meta-data#flutterEmbedding
+ADDED from D:\Documentos\FERNANDO\Arquivos Flutter\Udemy\LojaVirtual\loja_virtual\android\app\src\main\AndroidManifest.xml:45:9-47:33
+	android:value
+		ADDED from D:\Documentos\FERNANDO\Arquivos Flutter\Udemy\LojaVirtual\loja_virtual\android\app\src\main\AndroidManifest.xml:47:13-30
+	android:name
+		ADDED from D:\Documentos\FERNANDO\Arquivos Flutter\Udemy\LojaVirtual\loja_virtual\android\app\src\main\AndroidManifest.xml:46:13-44
+activity#com.yalantis.ucrop.UCropActivity
+ADDED from D:\Documentos\FERNANDO\Arquivos Flutter\Udemy\LojaVirtual\loja_virtual\android\app\src\main\AndroidManifest.xml:48:9-51:71
+	android:screenOrientation
+		ADDED from D:\Documentos\FERNANDO\Arquivos Flutter\Udemy\LojaVirtual\loja_virtual\android\app\src\main\AndroidManifest.xml:50:13-49
+	android:theme
+		ADDED from D:\Documentos\FERNANDO\Arquivos Flutter\Udemy\LojaVirtual\loja_virtual\android\app\src\main\AndroidManifest.xml:51:13-69
+	android:name
+		ADDED from D:\Documentos\FERNANDO\Arquivos Flutter\Udemy\LojaVirtual\loja_virtual\android\app\src\main\AndroidManifest.xml:49:13-60
+uses-sdk
+INJECTED from D:\Documentos\FERNANDO\Arquivos Flutter\Udemy\LojaVirtual\loja_virtual\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\Documentos\FERNANDO\Arquivos Flutter\Udemy\LojaVirtual\loja_virtual\android\app\src\main\AndroidManifest.xml
+INJECTED from D:\Documentos\FERNANDO\Arquivos Flutter\Udemy\LojaVirtual\loja_virtual\android\app\src\main\AndroidManifest.xml
+MERGED from [:firebase_auth] D:\Documentos\FERNANDO\Arquivos Flutter\Udemy\LojaVirtual\loja_virtual\build\firebase_auth\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:firebase_auth] D:\Documentos\FERNANDO\Arquivos Flutter\Udemy\LojaVirtual\loja_virtual\build\firebase_auth\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:firebase_auth_web] D:\Documentos\FERNANDO\Arquivos Flutter\Udemy\LojaVirtual\loja_virtual\build\firebase_auth_web\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:firebase_auth_web] D:\Documentos\FERNANDO\Arquivos Flutter\Udemy\LojaVirtual\loja_virtual\build\firebase_auth_web\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:firebase_storage] D:\Documentos\FERNANDO\Arquivos Flutter\Udemy\LojaVirtual\loja_virtual\build\firebase_storage\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:firebase_storage] D:\Documentos\FERNANDO\Arquivos Flutter\Udemy\LojaVirtual\loja_virtual\build\firebase_storage\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:cloud_firestore] D:\Documentos\FERNANDO\Arquivos Flutter\Udemy\LojaVirtual\loja_virtual\build\cloud_firestore\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:cloud_firestore] D:\Documentos\FERNANDO\Arquivos Flutter\Udemy\LojaVirtual\loja_virtual\build\cloud_firestore\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:cloud_firestore_web] D:\Documentos\FERNANDO\Arquivos Flutter\Udemy\LojaVirtual\loja_virtual\build\cloud_firestore_web\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:cloud_firestore_web] D:\Documentos\FERNANDO\Arquivos Flutter\Udemy\LojaVirtual\loja_virtual\build\cloud_firestore_web\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:firebase_core] D:\Documentos\FERNANDO\Arquivos Flutter\Udemy\LojaVirtual\loja_virtual\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:firebase_core] D:\Documentos\FERNANDO\Arquivos Flutter\Udemy\LojaVirtual\loja_virtual\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:firebase_core_web] D:\Documentos\FERNANDO\Arquivos Flutter\Udemy\LojaVirtual\loja_virtual\build\firebase_core_web\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:firebase_core_web] D:\Documentos\FERNANDO\Arquivos Flutter\Udemy\LojaVirtual\loja_virtual\build\firebase_core_web\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:image_picker] D:\Documentos\FERNANDO\Arquivos Flutter\Udemy\LojaVirtual\loja_virtual\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:image_picker] D:\Documentos\FERNANDO\Arquivos Flutter\Udemy\LojaVirtual\loja_virtual\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:flutter_plugin_android_lifecycle] D:\Documentos\FERNANDO\Arquivos Flutter\Udemy\LojaVirtual\loja_virtual\build\flutter_plugin_android_lifecycle\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:flutter_plugin_android_lifecycle] D:\Documentos\FERNANDO\Arquivos Flutter\Udemy\LojaVirtual\loja_virtual\build\flutter_plugin_android_lifecycle\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:geolocator] D:\Documentos\FERNANDO\Arquivos Flutter\Udemy\LojaVirtual\loja_virtual\build\geolocator\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:geolocator] D:\Documentos\FERNANDO\Arquivos Flutter\Udemy\LojaVirtual\loja_virtual\build\geolocator\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:gallery_saver] D:\Documentos\FERNANDO\Arquivos Flutter\Udemy\LojaVirtual\loja_virtual\build\gallery_saver\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:gallery_saver] D:\Documentos\FERNANDO\Arquivos Flutter\Udemy\LojaVirtual\loja_virtual\build\gallery_saver\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:path_provider] D:\Documentos\FERNANDO\Arquivos Flutter\Udemy\LojaVirtual\loja_virtual\build\path_provider\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:path_provider] D:\Documentos\FERNANDO\Arquivos Flutter\Udemy\LojaVirtual\loja_virtual\build\path_provider\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:image_cropper] D:\Documentos\FERNANDO\Arquivos Flutter\Udemy\LojaVirtual\loja_virtual\build\image_cropper\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:image_cropper] D:\Documentos\FERNANDO\Arquivos Flutter\Udemy\LojaVirtual\loja_virtual\build\image_cropper\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:vibration] D:\Documentos\FERNANDO\Arquivos Flutter\Udemy\LojaVirtual\loja_virtual\build\vibration\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:vibration] D:\Documentos\FERNANDO\Arquivos Flutter\Udemy\LojaVirtual\loja_virtual\build\vibration\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [androidx.multidex:multidex:2.0.0] C:\Users\Usuário\.gradle\caches\transforms-2\files-2.1\81e6ff9a5c3e0571422ca0ef141f94b3\multidex-2.0.0\AndroidManifest.xml:20:5-43
+MERGED from [androidx.multidex:multidex:2.0.0] C:\Users\Usuário\.gradle\caches\transforms-2\files-2.1\81e6ff9a5c3e0571422ca0ef141f94b3\multidex-2.0.0\AndroidManifest.xml:20:5-43
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Usuário\.gradle\caches\transforms-2\files-2.1\fc2ffe312ea43065bd59df9e8836aa9e\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Usuário\.gradle\caches\transforms-2\files-2.1\fc2ffe312ea43065bd59df9e8836aa9e\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-auth:19.2.0] C:\Users\Usuário\.gradle\caches\transforms-2\files-2.1\1e33ce2222d1558cbc82245df9dac193\firebase-auth-19.2.0\AndroidManifest.xml:21:5-44
+MERGED from [com.google.firebase:firebase-auth:19.2.0] C:\Users\Usuário\.gradle\caches\transforms-2\files-2.1\1e33ce2222d1558cbc82245df9dac193\firebase-auth-19.2.0\AndroidManifest.xml:21:5-44
+MERGED from [com.google.android.gms:play-services-location:17.0.0] C:\Users\Usuário\.gradle\caches\transforms-2\files-2.1\ddb24b3e281e8bab65a9a4df625ffd8f\play-services-location-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:17.0.0] C:\Users\Usuário\.gradle\caches\transforms-2\files-2.1\ddb24b3e281e8bab65a9a4df625ffd8f\play-services-location-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-storage:17.0.0] C:\Users\Usuário\.gradle\caches\transforms-2\files-2.1\9bc79fccbec825c1c3a48dd13f4bb1a7\jetified-firebase-storage-17.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-storage:17.0.0] C:\Users\Usuário\.gradle\caches\transforms-2\files-2.1\9bc79fccbec825c1c3a48dd13f4bb1a7\jetified-firebase-storage-17.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-firestore:21.3.0] C:\Users\Usuário\.gradle\caches\transforms-2\files-2.1\78a5d6ed9eb04041a95241063c6ac30c\jetified-firebase-firestore-21.3.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:firebase-firestore:21.3.0] C:\Users\Usuário\.gradle\caches\transforms-2\files-2.1\78a5d6ed9eb04041a95241063c6ac30c\jetified-firebase-firestore-21.3.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:firebase-auth-interop:19.0.0] C:\Users\Usuário\.gradle\caches\transforms-2\files-2.1\8094e87ecd77f546da4f36a5ac021ac8\firebase-auth-interop-19.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:19.0.0] C:\Users\Usuário\.gradle\caches\transforms-2\files-2.1\8094e87ecd77f546da4f36a5ac021ac8\firebase-auth-interop-19.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common:19.3.0] C:\Users\Usuário\.gradle\caches\transforms-2\files-2.1\5290b86e5212d30d932d892246a1c8a0\jetified-firebase-common-19.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-common:19.3.0] C:\Users\Usuário\.gradle\caches\transforms-2\files-2.1\5290b86e5212d30d932d892246a1c8a0\jetified-firebase-common-19.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\Usuário\.gradle\caches\transforms-2\files-2.1\05bba5a22f1fb20b730fb8c473e5665f\play-services-base-17.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\Usuário\.gradle\caches\transforms-2\files-2.1\05bba5a22f1fb20b730fb8c473e5665f\play-services-base-17.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\Usuário\.gradle\caches\transforms-2\files-2.1\68545895988108a776fb327d537da1c7\play-services-tasks-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\Usuário\.gradle\caches\transforms-2\files-2.1\68545895988108a776fb327d537da1c7\play-services-tasks-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\Usuário\.gradle\caches\transforms-2\files-2.1\bdbf40e1cf6d909c93fc244717130b47\play-services-places-placereport-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\Usuário\.gradle\caches\transforms-2\files-2.1\bdbf40e1cf6d909c93fc244717130b47\play-services-places-placereport-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Usuário\.gradle\caches\transforms-2\files-2.1\2c60a29057c1374362fb7e7f88a43c90\jetified-play-services-basement-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Usuário\.gradle\caches\transforms-2\files-2.1\2c60a29057c1374362fb7e7f88a43c90\jetified-play-services-basement-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.github.yalantis:ucrop:2.2.6] C:\Users\Usuário\.gradle\caches\transforms-2\files-2.1\d709473e4641729306afeed89b4c16e1\ucrop-2.2.6\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.yalantis:ucrop:2.2.6] C:\Users\Usuário\.gradle\caches\transforms-2\files-2.1\d709473e4641729306afeed89b4c16e1\ucrop-2.2.6\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\Usuário\.gradle\caches\transforms-2\files-2.1\b4f38fc2dc77bc2783ae4468a3d84e2b\appcompat-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\Usuário\.gradle\caches\transforms-2\files-2.1\b4f38fc2dc77bc2783ae4468a3d84e2b\appcompat-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Usuário\.gradle\caches\transforms-2\files-2.1\f346a256621a496ec96e80fbe4d8817a\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Usuário\.gradle\caches\transforms-2\files-2.1\f346a256621a496ec96e80fbe4d8817a\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Usuário\.gradle\caches\transforms-2\files-2.1\7fb67cb6651bd369d448ee02b4635e35\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Usuário\.gradle\caches\transforms-2\files-2.1\7fb67cb6651bd369d448ee02b4635e35\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Usuário\.gradle\caches\transforms-2\files-2.1\951b79dba6f8f2a2a9347b7191c0b28f\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Usuário\.gradle\caches\transforms-2\files-2.1\951b79dba6f8f2a2a9347b7191c0b28f\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Usuário\.gradle\caches\transforms-2\files-2.1\312f6712bdafa507c5ebc933f8638cbd\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Usuário\.gradle\caches\transforms-2\files-2.1\312f6712bdafa507c5ebc933f8638cbd\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Usuário\.gradle\caches\transforms-2\files-2.1\e56a241ecaa8d75e750fefb61542ddc8\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Usuário\.gradle\caches\transforms-2\files-2.1\e56a241ecaa8d75e750fefb61542ddc8\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Usuário\.gradle\caches\transforms-2\files-2.1\46c0def4fe30cd9e62c88ec8ac3e5d05\activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Usuário\.gradle\caches\transforms-2\files-2.1\46c0def4fe30cd9e62c88ec8ac3e5d05\activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0-rc01] C:\Users\Usuário\.gradle\caches\transforms-2\files-2.1\115739c0e61b89e39068c724bed75935\transition-1.2.0-rc01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0-rc01] C:\Users\Usuário\.gradle\caches\transforms-2\files-2.1\115739c0e61b89e39068c724bed75935\transition-1.2.0-rc01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media:media:1.0.0] C:\Users\Usuário\.gradle\caches\transforms-2\files-2.1\657c4b12d7a235e1cba3a16554a6972a\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\Usuário\.gradle\caches\transforms-2\files-2.1\657c4b12d7a235e1cba3a16554a6972a\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Usuário\.gradle\caches\transforms-2\files-2.1\099c337d24b6fccb00079b4e5a386b3f\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Usuário\.gradle\caches\transforms-2\files-2.1\099c337d24b6fccb00079b4e5a386b3f\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Usuário\.gradle\caches\transforms-2\files-2.1\e15c683957f801bd1f5846c695d57c22\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Usuário\.gradle\caches\transforms-2\files-2.1\e15c683957f801bd1f5846c695d57c22\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Usuário\.gradle\caches\transforms-2\files-2.1\868917a9209fda37f60bf577a4bc4bc7\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Usuário\.gradle\caches\transforms-2\files-2.1\868917a9209fda37f60bf577a4bc4bc7\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Usuário\.gradle\caches\transforms-2\files-2.1\a558b6fc36b966cafed7d69e472de0b2\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Usuário\.gradle\caches\transforms-2\files-2.1\a558b6fc36b966cafed7d69e472de0b2\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\Usuário\.gradle\caches\transforms-2\files-2.1\fe1e1c1eefdde685cc4a439fc9352377\appcompat-resources-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\Usuário\.gradle\caches\transforms-2\files-2.1\fe1e1c1eefdde685cc4a439fc9352377\appcompat-resources-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Usuário\.gradle\caches\transforms-2\files-2.1\528610c43b0834ea52f49348017cf3f5\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Usuário\.gradle\caches\transforms-2\files-2.1\528610c43b0834ea52f49348017cf3f5\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Usuário\.gradle\caches\transforms-2\files-2.1\8524b1deb1c379a951447411f101e82a\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Usuário\.gradle\caches\transforms-2\files-2.1\8524b1deb1c379a951447411f101e82a\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Usuário\.gradle\caches\transforms-2\files-2.1\6e7a419218f666ca192b7573dbe80add\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Usuário\.gradle\caches\transforms-2\files-2.1\6e7a419218f666ca192b7573dbe80add\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Usuário\.gradle\caches\transforms-2\files-2.1\836b6181679cb2d3d9107eaa9edb98b2\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Usuário\.gradle\caches\transforms-2\files-2.1\836b6181679cb2d3d9107eaa9edb98b2\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] C:\Users\Usuário\.gradle\caches\transforms-2\files-2.1\cc05cbb20248c793dee14f7d6605fdfb\core-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] C:\Users\Usuário\.gradle\caches\transforms-2\files-2.1\cc05cbb20248c793dee14f7d6605fdfb\core-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\Usuário\.gradle\caches\transforms-2\files-2.1\02816056a22ab3eb70148f01f98adbfc\lifecycle-runtime-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\Usuário\.gradle\caches\transforms-2\files-2.1\02816056a22ab3eb70148f01f98adbfc\lifecycle-runtime-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Usuário\.gradle\caches\transforms-2\files-2.1\23031d34efc0571e3e32118c0ea8966d\savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Usuário\.gradle\caches\transforms-2\files-2.1\23031d34efc0571e3e32118c0ea8966d\savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Usuário\.gradle\caches\transforms-2\files-2.1\db31f3ae55e03862ac3575434ccfe848\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Usuário\.gradle\caches\transforms-2\files-2.1\db31f3ae55e03862ac3575434ccfe848\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Usuário\.gradle\caches\transforms-2\files-2.1\69bd8cf5cae844b0c898c662bf6c7166\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Usuário\.gradle\caches\transforms-2\files-2.1\69bd8cf5cae844b0c898c662bf6c7166\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.3.0] C:\Users\Usuário\.gradle\caches\transforms-2\files-2.1\a775f1d5ce1d1502fcf9feafc624d67f\exifinterface-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.0] C:\Users\Usuário\.gradle\caches\transforms-2\files-2.1\a775f1d5ce1d1502fcf9feafc624d67f\exifinterface-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Usuário\.gradle\caches\transforms-2\files-2.1\e87b64b94f5c8b5cbb360f4d317c53b6\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Usuário\.gradle\caches\transforms-2\files-2.1\e87b64b94f5c8b5cbb360f4d317c53b6\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Usuário\.gradle\caches\transforms-2\files-2.1\76f54d9ee86a528bc05e58d1fce298db\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Usuário\.gradle\caches\transforms-2\files-2.1\76f54d9ee86a528bc05e58d1fce298db\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-components:16.0.0] C:\Users\Usuário\.gradle\caches\transforms-2\files-2.1\6da58e13240b0ae3a83ebdb883f391b7\jetified-firebase-components-16.0.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-components:16.0.0] C:\Users\Usuário\.gradle\caches\transforms-2\files-2.1\6da58e13240b0ae3a83ebdb883f391b7\jetified-firebase-components-16.0.0\AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Usuário\.gradle\caches\transforms-2\files-2.1\1f1adfa0ec28a04ef13cb56532c7a00a\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Usuário\.gradle\caches\transforms-2\files-2.1\1f1adfa0ec28a04ef13cb56532c7a00a\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Usuário\.gradle\caches\transforms-2\files-2.1\5dfe4c64c9e1bd823afd63c4256af19c\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Usuário\.gradle\caches\transforms-2\files-2.1\5dfe4c64c9e1bd823afd63c4256af19c\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Usuário\.gradle\caches\transforms-2\files-2.1\8d6423f798a0cb2c5f8a17eccb54ceea\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Usuário\.gradle\caches\transforms-2\files-2.1\8d6423f798a0cb2c5f8a17eccb54ceea\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Usuário\.gradle\caches\transforms-2\files-2.1\aec81131b87938632057d6bc8fc8c330\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Usuário\.gradle\caches\transforms-2\files-2.1\aec81131b87938632057d6bc8fc8c330\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Usuário\.gradle\caches\transforms-2\files-2.1\e0b2b94347c1ff094377551946660dc4\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Usuário\.gradle\caches\transforms-2\files-2.1\e0b2b94347c1ff094377551946660dc4\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Usuário\.gradle\caches\transforms-2\files-2.1\5a962addf5a9cfad67316ffa245d950a\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Usuário\.gradle\caches\transforms-2\files-2.1\5a962addf5a9cfad67316ffa245d950a\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [io.grpc:grpc-android:1.21.0] C:\Users\Usuário\.gradle\caches\transforms-2\files-2.1\2e6279ec12a6fa6804080f9d4540fc13\grpc-android-1.21.0\AndroidManifest.xml:7:5-9:41
+MERGED from [io.grpc:grpc-android:1.21.0] C:\Users\Usuário\.gradle\caches\transforms-2\files-2.1\2e6279ec12a6fa6804080f9d4540fc13\grpc-android-1.21.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:firebase-database-collection:17.0.0] C:\Users\Usuário\.gradle\caches\transforms-2\files-2.1\6d5d9c22b9ce429cddd121d1f9009c51\firebase-database-collection-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-database-collection:17.0.0] C:\Users\Usuário\.gradle\caches\transforms-2\files-2.1\6d5d9c22b9ce429cddd121d1f9009c51\firebase-database-collection-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:protolite-well-known-types:17.0.0] C:\Users\Usuário\.gradle\caches\transforms-2\files-2.1\3cd85f3ec8535ffa2a9d5080421a566b\protolite-well-known-types-17.0.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:protolite-well-known-types:17.0.0] C:\Users\Usuário\.gradle\caches\transforms-2\files-2.1\3cd85f3ec8535ffa2a9d5080421a566b\protolite-well-known-types-17.0.0\AndroidManifest.xml:7:5-9:41
+INJECTED from D:\Documentos\FERNANDO\Arquivos Flutter\Udemy\LojaVirtual\loja_virtual\android\app\src\debug\AndroidManifest.xml
+INJECTED from D:\Documentos\FERNANDO\Arquivos Flutter\Udemy\LojaVirtual\loja_virtual\android\app\src\debug\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\Documentos\FERNANDO\Arquivos Flutter\Udemy\LojaVirtual\loja_virtual\android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Documentos\FERNANDO\Arquivos Flutter\Udemy\LojaVirtual\loja_virtual\android\app\src\debug\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Documentos\FERNANDO\Arquivos Flutter\Udemy\LojaVirtual\loja_virtual\android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Documentos\FERNANDO\Arquivos Flutter\Udemy\LojaVirtual\loja_virtual\android\app\src\debug\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from D:\Documentos\FERNANDO\Arquivos Flutter\Udemy\LojaVirtual\loja_virtual\android\app\src\debug\AndroidManifest.xml:6:5-66
+MERGED from [com.google.firebase:firebase-storage:17.0.0] C:\Users\Usuário\.gradle\caches\transforms-2\files-2.1\9bc79fccbec825c1c3a48dd13f4bb1a7\jetified-firebase-storage-17.0.0\AndroidManifest.xml:27:5-67
+MERGED from [com.google.firebase:firebase-storage:17.0.0] C:\Users\Usuário\.gradle\caches\transforms-2\files-2.1\9bc79fccbec825c1c3a48dd13f4bb1a7\jetified-firebase-storage-17.0.0\AndroidManifest.xml:27:5-67
+MERGED from [com.google.firebase:firebase-firestore:21.3.0] C:\Users\Usuário\.gradle\caches\transforms-2\files-2.1\78a5d6ed9eb04041a95241063c6ac30c\jetified-firebase-firestore-21.3.0\AndroidManifest.xml:14:5-67
+MERGED from [com.google.firebase:firebase-firestore:21.3.0] C:\Users\Usuário\.gradle\caches\transforms-2\files-2.1\78a5d6ed9eb04041a95241063c6ac30c\jetified-firebase-firestore-21.3.0\AndroidManifest.xml:14:5-67
+	android:name
+		ADDED from D:\Documentos\FERNANDO\Arquivos Flutter\Udemy\LojaVirtual\loja_virtual\android\app\src\debug\AndroidManifest.xml:6:22-64
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [:firebase_auth] D:\Documentos\FERNANDO\Arquivos Flutter\Udemy\LojaVirtual\loja_virtual\build\firebase_auth\intermediates\library_manifest\debug\AndroidManifest.xml:8:9-12:19
+MERGED from [:firebase_storage] D:\Documentos\FERNANDO\Arquivos Flutter\Udemy\LojaVirtual\loja_virtual\build\firebase_storage\intermediates\library_manifest\debug\AndroidManifest.xml:8:9-12:19
+MERGED from [:firebase_storage] D:\Documentos\FERNANDO\Arquivos Flutter\Udemy\LojaVirtual\loja_virtual\build\firebase_storage\intermediates\library_manifest\debug\AndroidManifest.xml:8:9-12:19
+MERGED from [:cloud_firestore] D:\Documentos\FERNANDO\Arquivos Flutter\Udemy\LojaVirtual\loja_virtual\build\cloud_firestore\intermediates\library_manifest\debug\AndroidManifest.xml:8:9-12:19
+MERGED from [:cloud_firestore] D:\Documentos\FERNANDO\Arquivos Flutter\Udemy\LojaVirtual\loja_virtual\build\cloud_firestore\intermediates\library_manifest\debug\AndroidManifest.xml:8:9-12:19
+MERGED from [:firebase_core] D:\Documentos\FERNANDO\Arquivos Flutter\Udemy\LojaVirtual\loja_virtual\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:8:9-12:19
+MERGED from [:firebase_core] D:\Documentos\FERNANDO\Arquivos Flutter\Udemy\LojaVirtual\loja_virtual\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:8:9-12:19
+MERGED from [com.google.firebase:firebase-auth:19.2.0] C:\Users\Usuário\.gradle\caches\transforms-2\files-2.1\1e33ce2222d1558cbc82245df9dac193\firebase-auth-19.2.0\AndroidManifest.xml:33:9-39:19
+MERGED from [com.google.firebase:firebase-auth:19.2.0] C:\Users\Usuário\.gradle\caches\transforms-2\files-2.1\1e33ce2222d1558cbc82245df9dac193\firebase-auth-19.2.0\AndroidManifest.xml:33:9-39:19
+MERGED from [com.google.firebase:firebase-storage:17.0.0] C:\Users\Usuário\.gradle\caches\transforms-2\files-2.1\9bc79fccbec825c1c3a48dd13f4bb1a7\jetified-firebase-storage-17.0.0\AndroidManifest.xml:30:9-34:19
+MERGED from [com.google.firebase:firebase-storage:17.0.0] C:\Users\Usuário\.gradle\caches\transforms-2\files-2.1\9bc79fccbec825c1c3a48dd13f4bb1a7\jetified-firebase-storage-17.0.0\AndroidManifest.xml:30:9-34:19
+MERGED from [com.google.firebase:firebase-firestore:21.3.0] C:\Users\Usuário\.gradle\caches\transforms-2\files-2.1\78a5d6ed9eb04041a95241063c6ac30c\jetified-firebase-firestore-21.3.0\AndroidManifest.xml:17:9-23:19
+MERGED from [com.google.firebase:firebase-firestore:21.3.0] C:\Users\Usuário\.gradle\caches\transforms-2\files-2.1\78a5d6ed9eb04041a95241063c6ac30c\jetified-firebase-firestore-21.3.0\AndroidManifest.xml:17:9-23:19
+MERGED from [com.google.firebase:firebase-common:19.3.0] C:\Users\Usuário\.gradle\caches\transforms-2\files-2.1\5290b86e5212d30d932d892246a1c8a0\jetified-firebase-common-19.3.0\AndroidManifest.xml:32:9-36:35
+MERGED from [com.google.firebase:firebase-common:19.3.0] C:\Users\Usuário\.gradle\caches\transforms-2\files-2.1\5290b86e5212d30d932d892246a1c8a0\jetified-firebase-common-19.3.0\AndroidManifest.xml:32:9-36:35
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:19.2.0] C:\Users\Usuário\.gradle\caches\transforms-2\files-2.1\1e33ce2222d1558cbc82245df9dac193\firebase-auth-19.2.0\AndroidManifest.xml:35:13-37
+	tools:targetApi
+		ADDED from [com.google.firebase:firebase-common:19.3.0] C:\Users\Usuário\.gradle\caches\transforms-2\files-2.1\5290b86e5212d30d932d892246a1c8a0\jetified-firebase-common-19.3.0\AndroidManifest.xml:36:13-32
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:19.3.0] C:\Users\Usuário\.gradle\caches\transforms-2\files-2.1\5290b86e5212d30d932d892246a1c8a0\jetified-firebase-common-19.3.0\AndroidManifest.xml:34:13-43
+	android:name
+		ADDED from [:firebase_auth] D:\Documentos\FERNANDO\Arquivos Flutter\Udemy\LojaVirtual\loja_virtual\build\firebase_auth\intermediates\library_manifest\debug\AndroidManifest.xml:8:18-89
+meta-data#com.google.firebase.components:io.flutter.plugins.firebaseauth.FlutterFirebaseAppRegistrar
+ADDED from [:firebase_auth] D:\Documentos\FERNANDO\Arquivos Flutter\Udemy\LojaVirtual\loja_virtual\build\firebase_auth\intermediates\library_manifest\debug\AndroidManifest.xml:9:13-11:85
+	android:value
+		ADDED from [:firebase_auth] D:\Documentos\FERNANDO\Arquivos Flutter\Udemy\LojaVirtual\loja_virtual\build\firebase_auth\intermediates\library_manifest\debug\AndroidManifest.xml:11:17-82
+	android:name
+		ADDED from [:firebase_auth] D:\Documentos\FERNANDO\Arquivos Flutter\Udemy\LojaVirtual\loja_virtual\build\firebase_auth\intermediates\library_manifest\debug\AndroidManifest.xml:10:17-122
+meta-data#com.google.firebase.components:io.flutter.plugins.firebase.storage.FlutterFirebaseAppRegistrar
+ADDED from [:firebase_storage] D:\Documentos\FERNANDO\Arquivos Flutter\Udemy\LojaVirtual\loja_virtual\build\firebase_storage\intermediates\library_manifest\debug\AndroidManifest.xml:9:13-11:85
+	android:value
+		ADDED from [:firebase_storage] D:\Documentos\FERNANDO\Arquivos Flutter\Udemy\LojaVirtual\loja_virtual\build\firebase_storage\intermediates\library_manifest\debug\AndroidManifest.xml:11:17-82
+	android:name
+		ADDED from [:firebase_storage] D:\Documentos\FERNANDO\Arquivos Flutter\Udemy\LojaVirtual\loja_virtual\build\firebase_storage\intermediates\library_manifest\debug\AndroidManifest.xml:10:17-126
+meta-data#com.google.firebase.components:io.flutter.plugins.firebase.cloudfirestore.FlutterFirebaseAppRegistrar
+ADDED from [:cloud_firestore] D:\Documentos\FERNANDO\Arquivos Flutter\Udemy\LojaVirtual\loja_virtual\build\cloud_firestore\intermediates\library_manifest\debug\AndroidManifest.xml:9:13-11:85
+	android:value
+		ADDED from [:cloud_firestore] D:\Documentos\FERNANDO\Arquivos Flutter\Udemy\LojaVirtual\loja_virtual\build\cloud_firestore\intermediates\library_manifest\debug\AndroidManifest.xml:11:17-82
+	android:name
+		ADDED from [:cloud_firestore] D:\Documentos\FERNANDO\Arquivos Flutter\Udemy\LojaVirtual\loja_virtual\build\cloud_firestore\intermediates\library_manifest\debug\AndroidManifest.xml:10:17-133
+meta-data#com.google.firebase.components:io.flutter.plugins.firebase.core.FlutterFirebaseAppRegistrar
+ADDED from [:firebase_core] D:\Documentos\FERNANDO\Arquivos Flutter\Udemy\LojaVirtual\loja_virtual\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:9:13-11:85
+	android:value
+		ADDED from [:firebase_core] D:\Documentos\FERNANDO\Arquivos Flutter\Udemy\LojaVirtual\loja_virtual\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:11:17-82
+	android:name
+		ADDED from [:firebase_core] D:\Documentos\FERNANDO\Arquivos Flutter\Udemy\LojaVirtual\loja_virtual\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:10:17-123
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from [:image_picker] D:\Documentos\FERNANDO\Arquivos Flutter\Udemy\LojaVirtual\loja_virtual\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-80
+	android:name
+		ADDED from [:image_picker] D:\Documentos\FERNANDO\Arquivos Flutter\Udemy\LojaVirtual\loja_virtual\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:7:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from [:image_picker] D:\Documentos\FERNANDO\Arquivos Flutter\Udemy\LojaVirtual\loja_virtual\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:8:5-81
+	android:name
+		ADDED from [:image_picker] D:\Documentos\FERNANDO\Arquivos Flutter\Udemy\LojaVirtual\loja_virtual\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:8:22-78
+provider#io.flutter.plugins.imagepicker.ImagePickerFileProvider
+ADDED from [:image_picker] D:\Documentos\FERNANDO\Arquivos Flutter\Udemy\LojaVirtual\loja_virtual\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:11:9-19:20
+	android:grantUriPermissions
+		ADDED from [:image_picker] D:\Documentos\FERNANDO\Arquivos Flutter\Udemy\LojaVirtual\loja_virtual\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:15:13-47
+	android:authorities
+		ADDED from [:image_picker] D:\Documentos\FERNANDO\Arquivos Flutter\Udemy\LojaVirtual\loja_virtual\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:13:13-74
+	android:exported
+		ADDED from [:image_picker] D:\Documentos\FERNANDO\Arquivos Flutter\Udemy\LojaVirtual\loja_virtual\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:14:13-37
+	android:name
+		ADDED from [:image_picker] D:\Documentos\FERNANDO\Arquivos Flutter\Udemy\LojaVirtual\loja_virtual\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:12:13-82
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [:image_picker] D:\Documentos\FERNANDO\Arquivos Flutter\Udemy\LojaVirtual\loja_virtual\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:16:13-18:75
+	android:resource
+		ADDED from [:image_picker] D:\Documentos\FERNANDO\Arquivos Flutter\Udemy\LojaVirtual\loja_virtual\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:18:17-72
+	android:name
+		ADDED from [:image_picker] D:\Documentos\FERNANDO\Arquivos Flutter\Udemy\LojaVirtual\loja_virtual\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:17:17-67
+uses-permission#android.permission.VIBRATE
+ADDED from [:vibration] D:\Documentos\FERNANDO\Arquivos Flutter\Udemy\LojaVirtual\loja_virtual\build\vibration\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-66
+	android:name
+		ADDED from [:vibration] D:\Documentos\FERNANDO\Arquivos Flutter\Udemy\LojaVirtual\loja_virtual\build\vibration\intermediates\library_manifest\debug\AndroidManifest.xml:7:22-63
+activity#com.google.firebase.auth.internal.FederatedSignInActivity
+ADDED from [com.google.firebase:firebase-auth:19.2.0] C:\Users\Usuário\.gradle\caches\transforms-2\files-2.1\1e33ce2222d1558cbc82245df9dac193\firebase-auth-19.2.0\AndroidManifest.xml:24:9-31:50
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:19.2.0] C:\Users\Usuário\.gradle\caches\transforms-2\files-2.1\1e33ce2222d1558cbc82245df9dac193\firebase-auth-19.2.0\AndroidManifest.xml:26:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:19.2.0] C:\Users\Usuário\.gradle\caches\transforms-2\files-2.1\1e33ce2222d1558cbc82245df9dac193\firebase-auth-19.2.0\AndroidManifest.xml:28:13-44
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:19.2.0] C:\Users\Usuário\.gradle\caches\transforms-2\files-2.1\1e33ce2222d1558cbc82245df9dac193\firebase-auth-19.2.0\AndroidManifest.xml:27:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-auth:19.2.0] C:\Users\Usuário\.gradle\caches\transforms-2\files-2.1\1e33ce2222d1558cbc82245df9dac193\firebase-auth-19.2.0\AndroidManifest.xml:29:13-102
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:19.2.0] C:\Users\Usuário\.gradle\caches\transforms-2\files-2.1\1e33ce2222d1558cbc82245df9dac193\firebase-auth-19.2.0\AndroidManifest.xml:30:13-72
+	tools:replace
+		ADDED from [com.google.firebase:firebase-auth:19.2.0] C:\Users\Usuário\.gradle\caches\transforms-2\files-2.1\1e33ce2222d1558cbc82245df9dac193\firebase-auth-19.2.0\AndroidManifest.xml:31:13-47
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:19.2.0] C:\Users\Usuário\.gradle\caches\transforms-2\files-2.1\1e33ce2222d1558cbc82245df9dac193\firebase-auth-19.2.0\AndroidManifest.xml:25:13-85
+meta-data#com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar
+ADDED from [com.google.firebase:firebase-auth:19.2.0] C:\Users\Usuário\.gradle\caches\transforms-2\files-2.1\1e33ce2222d1558cbc82245df9dac193\firebase-auth-19.2.0\AndroidManifest.xml:36:13-38:85
+	android:value
+		ADDED from [com.google.firebase:firebase-auth:19.2.0] C:\Users\Usuário\.gradle\caches\transforms-2\files-2.1\1e33ce2222d1558cbc82245df9dac193\firebase-auth-19.2.0\AndroidManifest.xml:38:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:19.2.0] C:\Users\Usuário\.gradle\caches\transforms-2\files-2.1\1e33ce2222d1558cbc82245df9dac193\firebase-auth-19.2.0\AndroidManifest.xml:37:17-109
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.firebase:firebase-storage:17.0.0] C:\Users\Usuário\.gradle\caches\transforms-2\files-2.1\9bc79fccbec825c1c3a48dd13f4bb1a7\jetified-firebase-storage-17.0.0\AndroidManifest.xml:26:5-79
+MERGED from [com.google.firebase:firebase-firestore:21.3.0] C:\Users\Usuário\.gradle\caches\transforms-2\files-2.1\78a5d6ed9eb04041a95241063c6ac30c\jetified-firebase-firestore-21.3.0\AndroidManifest.xml:13:5-79
+MERGED from [com.google.firebase:firebase-firestore:21.3.0] C:\Users\Usuário\.gradle\caches\transforms-2\files-2.1\78a5d6ed9eb04041a95241063c6ac30c\jetified-firebase-firestore-21.3.0\AndroidManifest.xml:13:5-79
+MERGED from [io.grpc:grpc-android:1.21.0] C:\Users\Usuário\.gradle\caches\transforms-2\files-2.1\2e6279ec12a6fa6804080f9d4540fc13\grpc-android-1.21.0\AndroidManifest.xml:11:5-79
+MERGED from [io.grpc:grpc-android:1.21.0] C:\Users\Usuário\.gradle\caches\transforms-2\files-2.1\2e6279ec12a6fa6804080f9d4540fc13\grpc-android-1.21.0\AndroidManifest.xml:11:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-storage:17.0.0] C:\Users\Usuário\.gradle\caches\transforms-2\files-2.1\9bc79fccbec825c1c3a48dd13f4bb1a7\jetified-firebase-storage-17.0.0\AndroidManifest.xml:26:22-76
+meta-data#com.google.firebase.components:com.google.firebase.storage.StorageRegistrar
+ADDED from [com.google.firebase:firebase-storage:17.0.0] C:\Users\Usuário\.gradle\caches\transforms-2\files-2.1\9bc79fccbec825c1c3a48dd13f4bb1a7\jetified-firebase-storage-17.0.0\AndroidManifest.xml:31:13-33:85
+	android:value
+		ADDED from [com.google.firebase:firebase-storage:17.0.0] C:\Users\Usuário\.gradle\caches\transforms-2\files-2.1\9bc79fccbec825c1c3a48dd13f4bb1a7\jetified-firebase-storage-17.0.0\AndroidManifest.xml:33:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-storage:17.0.0] C:\Users\Usuário\.gradle\caches\transforms-2\files-2.1\9bc79fccbec825c1c3a48dd13f4bb1a7\jetified-firebase-storage-17.0.0\AndroidManifest.xml:32:17-107
+meta-data#com.google.firebase.components:com.google.firebase.firestore.FirestoreRegistrar
+ADDED from [com.google.firebase:firebase-firestore:21.3.0] C:\Users\Usuário\.gradle\caches\transforms-2\files-2.1\78a5d6ed9eb04041a95241063c6ac30c\jetified-firebase-firestore-21.3.0\AndroidManifest.xml:20:13-22:85
+	android:value
+		ADDED from [com.google.firebase:firebase-firestore:21.3.0] C:\Users\Usuário\.gradle\caches\transforms-2\files-2.1\78a5d6ed9eb04041a95241063c6ac30c\jetified-firebase-firestore-21.3.0\AndroidManifest.xml:22:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-firestore:21.3.0] C:\Users\Usuário\.gradle\caches\transforms-2\files-2.1\78a5d6ed9eb04041a95241063c6ac30c\jetified-firebase-firestore-21.3.0\AndroidManifest.xml:21:17-111
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:19.3.0] C:\Users\Usuário\.gradle\caches\transforms-2\files-2.1\5290b86e5212d30d932d892246a1c8a0\jetified-firebase-common-19.3.0\AndroidManifest.xml:26:9-30:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:19.3.0] C:\Users\Usuário\.gradle\caches\transforms-2\files-2.1\5290b86e5212d30d932d892246a1c8a0\jetified-firebase-common-19.3.0\AndroidManifest.xml:28:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:19.3.0] C:\Users\Usuário\.gradle\caches\transforms-2\files-2.1\5290b86e5212d30d932d892246a1c8a0\jetified-firebase-common-19.3.0\AndroidManifest.xml:29:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:19.3.0] C:\Users\Usuário\.gradle\caches\transforms-2\files-2.1\5290b86e5212d30d932d892246a1c8a0\jetified-firebase-common-19.3.0\AndroidManifest.xml:30:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:19.3.0] C:\Users\Usuário\.gradle\caches\transforms-2\files-2.1\5290b86e5212d30d932d892246a1c8a0\jetified-firebase-common-19.3.0\AndroidManifest.xml:27:13-77
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\Usuário\.gradle\caches\transforms-2\files-2.1\05bba5a22f1fb20b730fb8c473e5665f\play-services-base-17.1.0\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\Usuário\.gradle\caches\transforms-2\files-2.1\05bba5a22f1fb20b730fb8c473e5665f\play-services-base-17.1.0\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\Usuário\.gradle\caches\transforms-2\files-2.1\05bba5a22f1fb20b730fb8c473e5665f\play-services-base-17.1.0\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\Usuário\.gradle\caches\transforms-2\files-2.1\05bba5a22f1fb20b730fb8c473e5665f\play-services-base-17.1.0\AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Usuário\.gradle\caches\transforms-2\files-2.1\2c60a29057c1374362fb7e7f88a43c90\jetified-play-services-basement-17.0.0\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Usuário\.gradle\caches\transforms-2\files-2.1\2c60a29057c1374362fb7e7f88a43c90\jetified-play-services-basement-17.0.0\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Usuário\.gradle\caches\transforms-2\files-2.1\2c60a29057c1374362fb7e7f88a43c90\jetified-play-services-basement-17.0.0\AndroidManifest.xml:24:13-58
